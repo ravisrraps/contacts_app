@@ -1,8 +1,12 @@
 # zoho
 
-A new Flutter project.
+A new Flutter app.
 
 ## Getting Started
+
+Download the app-release.apk in your mobile and install it in your device
+It will show the login page as initial state
+Then perform the remaining operations
 
 This project is a starting point for a Flutter application.
 
