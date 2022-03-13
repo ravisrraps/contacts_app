@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387304133717",
+    "project_id": "zoho-cb082",
+    "storage_bucket": "zoho-cb082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387304133717:android:cf51fb9a97e9518dd4f0dc",
+        "android_client_info": {
+          "package_name": "com.example.zoho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387304133717-f6b0gpnrjt0udg58ucegjk1cjjcisk8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZuy58unMrqAips8VP7s5f7Dn-CD-sso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387304133717-f6b0gpnrjt0udg58ucegjk1cjjcisk8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
